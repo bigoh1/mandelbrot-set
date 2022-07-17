@@ -1,4 +1,4 @@
 mandelbrot-set
 ==============
 
-![preview](img/img.png)
+![preview](img/preview.png)

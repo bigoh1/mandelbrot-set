@@ -2,10 +2,10 @@
 name = "mandelbrot-set"
 version = "0.1.0"
 edition = "2021"
-authors = ["multifrench <multifrench@protonmail.com>"]
+authors = ["Yehor Varbanskyi <multifrench@pm.me>"]
 
 [dependencies]
 num = "0.4.0"
 image = "0.24.2"
+colors-transform = "0.2.11"
 rayon = "1.5.3"
-num-rational = "0.4.0"
